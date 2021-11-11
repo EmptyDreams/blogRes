@@ -129,16 +129,6 @@ a#site-name {
   font-size: xx-large;
 }
 
-/* icon.css */
-svg.icon {
-   width: 1.25em; height: 1.25em;
-   /* width和height定义图标的默认宽度和高度*/
-   vertical-align: -0.15em;
-   fill: currentColor;
-   overflow: hidden;
-   text-shadow: 0 0 1px black;
-}
-
 /* kimbie-dark.css */
 /*
     Name:     Kimbie (dark)
