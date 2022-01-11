@@ -128,15 +128,5 @@
       { "icon": "🍉", "text": "" },
       { "icon": "😣", "text": "" }
     ]
-  },
-  "Favorites": {
-    "type": "image",
-    "container": [
-      { "icon": "<img src=\"https://image.emptydreams.xyz/icon/favorites/fa_000.jpg\">", "text": "fa_000" },
-      { "icon": "<img src=\"https://image.emptydreams.xyz/icon/favorites/fa_001.jpg\">", "text": "fa_001" },
-
-      { "icon": "<img src=\"https://image.emptydreams.xyz/icon/favorites/fa_003.jpg\">", "text": "fa_003" },
-      { "icon": "<img src=\"https://image.emptydreams.xyz/icon/favorites/fa_004.jpg\">", "text": "fa_004" }
-    }
   }
 }
