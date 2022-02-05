@@ -312,7 +312,7 @@
   },
   "Hanser": {
     "type": "image",
-    "container": [{
+    "container": [
       { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/01.png\">", "text": "haner-1" },
       { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/02.png\">", "text": "haner-2" },
       { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/03.png\">", "text": "haner-3" },
@@ -336,6 +336,6 @@
       { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/21.png\">", "text": "haner-21" },
       { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/22.png\">", "text": "haner-22" },
       { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/23.png\">", "text": "haner-23" }
-    }]
-  }
+    ]
+   }
   }
