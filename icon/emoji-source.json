@@ -1,36 +1,4 @@
 {
-  "颜文字": {
-    "type": "emoticon",
-    "container": [
-      { "icon": "OωO", "text": "Author: DIYgod" },
-      { "icon": "|´・ω・)ノ", "text": "Hi" },
-      { "icon": "ヾ(≧∇≦*)ゝ", "text": "开心" },
-      { "icon": "(☆ω☆)", "text": "星星眼" },
-      { "icon": "（╯‵□′）╯︵┴─┴", "text": "掀桌" },
-      { "icon": "￣﹃￣", "text": "流口水" },
-      { "icon": "(/ω＼)", "text": "捂脸" },
-      { "icon": "∠( ᐛ 」∠)＿", "text": "给跪" },
-      { "icon": "(๑•̀ㅁ•́ฅ)", "text": "Hi" },
-      { "icon": "→_→", "text": "斜眼" },
-      { "icon": "୧(๑•̀⌄•́๑)૭", "text": "加油" },
-      { "icon": "٩(ˊᗜˋ*)و", "text": "有木有WiFi" },
-      { "icon": "(ノ°ο°)ノ", "text": "前方高能预警" },
-      { "icon": "(´இ皿இ｀)", "text": "我从未见过如此厚颜无耻之人" },
-      { "icon": "⌇●﹏●⌇", "text": "吓死宝宝惹" },
-      { "icon": "(ฅ´ω`ฅ)", "text": "已阅留爪" },
-      { "icon": "(╯°A°)╯︵○○○", "text": "去吧大师球" },
-      { "icon": "φ(￣∇￣o)", "text": "太萌惹" },
-      { "icon": "ヾ(´･ ･｀｡)ノ\"", "text": "咦咦咦" },
-      { "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃", "text": "气呼呼" },
-      { "icon": "(ó﹏ò｡)", "text": "我受到了惊吓" },
-      { "icon": "Σ(っ °Д °;)っ", "text": "什么鬼" },
-      { "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)", "text": "摸摸头" },
-      { "icon": "╮(╯▽╰)╭ ", "text": "无奈" },
-      { "icon": "o(*////▽////*)q ", "text": "脸红" },
-      { "icon": "＞﹏＜", "text": "" },
-      { "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)", "text": "" }
-    ]
-  },
   "小电视": {
     "type": "image",
     "container": [{
@@ -282,49 +250,92 @@
     "type": "image",
     "container": [{
       "text": "bili23-1",
+      "icon": "<img src='https://cdn1.tianli0.top/gh/EmptyDreams/resource/icon/2233/104.png'>"
+    },{
+      "text": "bili23-2",
+      "icon": "<img src='https://cdn1.tianli0.top/gh/EmptyDreams/resource/icon/2233/105.png'>"
+    },{
+      "text": "bili23-3",
+      "icon": "<img src='https://cdn1.tianli0.top/gh/EmptyDreams/resource/icon/2233/106.png'>"
+    },{
+      "text": "bili23-4",
+      "icon": "<img src='https://cdn1.tianli0.top/gh/EmptyDreams/resource/icon/2233/107.png'>"
+    },{
+      "text": "bili23-5",
+      "icon": "<img src='https://cdn1.tianli0.top/gh/EmptyDreams/resource/icon/2233/108.png'>"
+    },{
+      "text": "bili23-6",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/1.png'>"
     }, {
-      "text": "bili23-2",
+      "text": "bili23-7",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/10.png'>"
     }, {
-      "text": "bili23-3",
+      "text": "bili23-8",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/11.png'>"
     }, {
-      "text": "bili23-4",
+      "text": "bili23-9",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/12.png'>"
     }, {
-      "text": "bili23-5",
+      "text": "bili23-10",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/13.png'>"
     }, {
-      "text": "bili23-6",
+      "text": "bili23-11",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/14.png'>"
     }, {
-      "text": "bili23-7",
+      "text": "bili23-12",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/15.png'>"
     }, {
-      "text": "bili23-8",
+      "text": "bili23-13",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/2.png'>"
     }, {
-      "text": "bili23-9",
+      "text": "bili23-14",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/3.png'>"
     }, {
-      "text": "bili23-10",
+      "text": "bili23-15",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/4.png'>"
     }, {
-      "text": "bili23-11",
+      "text": "bili23-16",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/5.png'>"
     }, {
-      "text": "bili23-12",
+      "text": "bili23-17",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/6.png'>"
     }, {
-      "text": "bili23-13",
+      "text": "bili23-18",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/7.png'>"
     }, {
-      "text": "bili23-14",
+      "text": "bili23-19",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/8.png'>"
     }, {
-      "text": "bili23-15",
+      "text": "bili23-20",
       "icon": "<img src='https://cdn1.tianli0.top/gh/2x-ercha/twikoo-magic@master/image/bilibili2233/9.png'>"
     }]
+  },
+  "Hanser": {
+    "type": "image",
+    "container": [{
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/01.png\">", "text": "haner-1" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/02.png\">", "text": "haner-2" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/03.png\">", "text": "haner-3" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/04.png\">", "text": "haner-4" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/05.png\">", "text": "haner-5" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/06.png\">", "text": "haner-6" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/07.png\">", "text": "haner-7" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/08.png\">", "text": "haner-8" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/09.png\">", "text": "haner-9" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/10.png\">", "text": "haner-10" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/11.png\">", "text": "haner-11" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/12.png\">", "text": "haner-12" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/13.png\">", "text": "haner-13" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/14.png\">", "text": "haner-14" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/15.png\">", "text": "haner-15" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/16.png\">", "text": "haner-16" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/17.png\">", "text": "haner-17" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/18.png\">", "text": "haner-18" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/19.png\">", "text": "haner-19" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/20.png\">", "text": "haner-20" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/21.png\">", "text": "haner-21" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/22.png\">", "text": "haner-22" },
+      { "icon": "<img src=\"https://cdn1.tianli0.top/gh/EmptyDreams/resources/icon/hanser/23.png\">", "text": "haner-23" }
+    }]
   }
-}
+  }
