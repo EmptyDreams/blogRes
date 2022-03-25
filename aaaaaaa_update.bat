@@ -4,3 +4,4 @@ call bat/add.bat
 call bat/commit.bat
 echo ÍøÂçÍ¬²½
 call bat/push.bat
+@pause
