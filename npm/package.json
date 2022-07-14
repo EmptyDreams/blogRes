@@ -1,7 +1,7 @@
 {
   "name": "@kmar/fonts",
-  "version": "1.0.5",
-  "description": "山岳库博（kmar.top）用到的一系列无压缩字体文件（包含部分免费商用字体）",
+  "version": "1.0.8",
+  "description": "山岳库博（kmar.top）用到的一系列无压缩字体文件（包含部分免费商用字体）以及一些其它资源",
   "repository": "EmptyDreams/resources/tree/master/npm",
   "keywords": [
     "ttf",
